@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=FFFFCC&height=200&section=header&text=jmjnssss&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FFFFCC&height=200&section=header&text=jmjnssss&fontSize=90" />
 
 
 <br/>
@@ -66,7 +66,7 @@ Fighting!&nbsp;&#10024;
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&height=200&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=CCFFCC&height=200&section=footer&fontSize=90" />
 
 
 
