@@ -2,11 +2,11 @@
 
 
 
-<p style="text-align:center; ">
+<h3 align="center">
 &#128570;&nbsp; Hi there &#128570;
-</p>
+</h3>
 
-<p style="text-align:center">
+<p align="center">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
