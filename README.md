@@ -11,8 +11,9 @@ Fighting!&nbsp;&#10024;
 <br/>
 
 <h3 align="center">
-&#127873; Technology Stack &#127873; 
+&#127873; Skills &#127873; 
 </h3>
+<h5  align="center"> (Language & Tools) </h5>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
