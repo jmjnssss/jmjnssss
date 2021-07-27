@@ -3,9 +3,16 @@
 
 
 <h3 align="center">
-&#128570;&nbsp; Hi there &#128570;
+&#127881;&nbsp; Hi there &#127881;
 </h3>
+<p align="center">
+Hello, I'm a growing developer.&#10024;  
+</p>
+<br/>
 
+<h3 align="center">
+&#127873; Technology Stack &#127873; 
+</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
