@@ -7,10 +7,10 @@
 </h3>
 -->
 # Hi, I'm Eunhee Park 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jmjnssss" height="180"> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-Young-Bin&count_bg=%23EE71AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a> 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pyb971219@gmail.com)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjnssss%2Fhit-counter&count_bg=%23FF797B&title_bg=%237C7C7C&icon=gradle.svg&icon_color=%23D5CFCF&title=hits&edge_flat=false"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:vjm333z@gmail.com)
 
-
+<br/>
 <p align="center">
 Hi, I'm a growing developer. &#128570;<br/>
 Fighting!&nbsp;&#10024;  
@@ -55,12 +55,11 @@ Fighting!&nbsp;&#10024;
 
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjnssss%2Fhit-counter&count_bg=%23FF797B&title_bg=%237C7C7C&icon=gradle.svg&icon_color=%23D5CFCF&title=hits&edge_flat=false"/></a>
+ 
 </p>
 <br/><br/><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjnssss)](https://github.com/jmjnssss/github-readme-stats)
 
 <br/><br/>
 
