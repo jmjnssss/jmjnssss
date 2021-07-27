@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=jmjnssss&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FBFBD8&height=200&section=header&text=EunHee%20Profile&fontSize=45)
 <br/>
 <h3 align="center">
 &#127881;&nbsp; Hi there &#127881;
