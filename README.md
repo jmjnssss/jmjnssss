@@ -6,8 +6,8 @@
 &#127881;&nbsp; Hi there &#127881;
 </h3>
 <p align="center">
-Hi, I'm a growing developer. <br/>
-Fighting! &nbsp;&#10024;  
+Hi, I'm a growing developer. &#128570;<br/>
+Fighting!&nbsp;&#10024;  
 </p>
 <br/>
 
