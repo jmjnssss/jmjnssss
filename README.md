@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=jmjnssss%20render&fontSize=90" />
 
 
+
+
+
+
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 
@@ -8,6 +12,7 @@
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=jmjnssss%20render&fontSize=90" />
 
 
 
