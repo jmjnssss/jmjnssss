@@ -76,8 +76,10 @@ Fighting!&nbsp;&#10024;
 
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=CCFFCC&height=200&section=footer&fontSize=45)
+<!--
 <img src="https://capsule-render.vercel.app/api?type=wave&color=CCFFCC&height=200&section=footer&fontSize=90" />
-
+-->
 
 
 
