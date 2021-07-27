@@ -16,7 +16,10 @@ Hello, I'm a growing developer.&#10024;
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+<!--
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+-->
+<img src="https://img.shields.io/badge/-css-blue?style=flat-square&logo=Css3&logoColor=white"/>&nbsp;
 </p>
 <br/>
 
