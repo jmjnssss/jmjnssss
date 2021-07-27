@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=jmjnssss&fontSize=90" />
 
 
-
+<br/>
 <h3 align="center">
 &#127881;&nbsp; Hi there &#127881;
 </h3>
@@ -18,7 +18,7 @@ Hello, I'm a growing developer.&#10024;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 </p>
-
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&fontSize=90" />
 
