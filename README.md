@@ -1,9 +1,16 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FBFBD8&height=200&section=header&text=EunHee%20Profile&fontSize=45)
 <br/>
-<h3 align="center">
+<!--
+<h3>
 &#127881;&nbsp; Hi there &#127881;
 </h3>
+-->
+# Hi, I'm Eunhee Park 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jmjnssss" height="180"> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPark-Young-Bin&count_bg=%23EE71AE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a> 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:pyb971219@gmail.com)
+
+
 <p align="center">
 Hi, I'm a growing developer. &#128570;<br/>
 Fighting!&nbsp;&#10024;  
