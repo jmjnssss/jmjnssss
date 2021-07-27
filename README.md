@@ -2,8 +2,8 @@
 
 
 
-<p style="text-align:center">
-&#128570;&nbsp; Hi there&#128570;
+<p style="text-align:center; ">
+&#128570;&nbsp; Hi there &#128570;
 </p>
 
 <p style="text-align:center">
