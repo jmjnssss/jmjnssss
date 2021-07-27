@@ -7,11 +7,13 @@
 </h3>
 -->
 # Hi, I'm Eunhee Park 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jmjnssss" height="180"> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjnssss%2Fhit-counter&count_bg=%23FF797B&title_bg=%237C7C7C&icon=gradle.svg&icon_color=%23D5CFCF&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjnssss%2Fhit-counter&count_bg=%23FF797B&title_bg=%237C7C7C&icon=gradle.svg&icon_color=%23D5CFCF&title=hits&edge_flat=false"/></a><br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:vjm333z@gmail.com)
-
+[![Notion Badge](https://img.shields.io/badge/notion-blue?style=flat&logo=notion&logoColor=white)]()
 <br/>
-<p align="center">
+### Introduce &#129311;
+
+<p>
 Hi, I'm a growing developer. &#128570;<br/>
 Fighting!&nbsp;&#10024;  
 </p>
