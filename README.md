@@ -2,10 +2,9 @@
 
 
 
-
-&#128570;
-Hi there&#128570;
-
+<p style="text-align:center">
+&#128570;&nbsp; Hi there&#128570;
+</p>
 
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
