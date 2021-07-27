@@ -49,7 +49,7 @@ Fighting!&nbsp;&#10024;
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjmjnssss%2Fhit-counter&count_bg=%23FF797B&title_bg=%237C7C7C&icon=gradle.svg&icon_color=%23D5CFCF&title=hits&edge_flat=false"/></a>
 </p>
-<br/><br/>
+<br/><br/><br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjnssss)](https://github.com/jmjnssss/github-readme-stats)
