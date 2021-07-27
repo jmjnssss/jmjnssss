@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=jmjnssss%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=header&text=jmjnssss%20render&fontSize=90" />
 
 
 
@@ -12,7 +12,10 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=jmjnssss%20render&fontSize=90" />
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=400&section=footer&text=jmjnssss%20render&fontSize=90" />
 
 
 
