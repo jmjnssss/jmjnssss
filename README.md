@@ -35,7 +35,25 @@ Hello, I'm a growing developer.&#10024;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 -->  
 </p>
+
+<p align="center"></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss/github-readme-stats)
+
+
 <br/><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&height=200&section=footer&fontSize=90" />
 
