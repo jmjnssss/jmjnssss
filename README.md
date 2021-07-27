@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FFFFCC&height=200&section=header&text=jmjnssss&fontSize=90" />
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=CED8F6&height=200&section=header&text=jmjnssss&fontSize=45)
 <br/>
 <h3 align="center">
 &#127881;&nbsp; Hi there &#127881;
@@ -70,16 +70,6 @@ Fighting!&nbsp;&#10024;
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=CCFFCC&height=200&section=footer&fontSize=90" />
-
-
-
-
-
-
-
-
-
-
 
 
 
