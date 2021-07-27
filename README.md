@@ -36,9 +36,9 @@ Hello, I'm a growing developer.&#10024;
 -->  
 </p>
 
-<p align="center"></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss)
 
+<p align="center"></p>
 
 <br/><br/>
 
