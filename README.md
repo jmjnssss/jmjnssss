@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=jmjnssss&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF3366&height=200&section=header&text=jmjnssss&fontSize=90" />
 
 
 <br/>
@@ -20,7 +20,7 @@ Hello, I'm a growing developer.&#10024;
 </p>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=99FFFF&height=200&section=footer&fontSize=90" />
 
 
 
