@@ -16,18 +16,26 @@ Hello, I'm a growing developer.&#10024;
 <p align="center">
 <img src="https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
+<br/>
+<img src="https://img.shields.io/badge/-Spring-ff69b4?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/-css-blue?style=flat-square&logo=Css3&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-html5-blueviolet?style=flat-square&logo=html5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/-Spring-ff69b4?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/-Tomcat-success?style=flat-square&logo=ApacheTomcat&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/-ORACLE-important?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
+<br/>
 <img src="https://img.shields.io/badge/-Eclipse-critical?style=flat-square&logo=Eclipse&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/-VSCode-ff69b4?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;
+
   
 <!--
+
+<img src="https://img.shields.io/badge/-DBeaver-imformational?style=flat-square&logo=DBeaver&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
 -->  
 </p>
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=CCFFCC&height=200&section=footer&fontSize=90" />
 
