@@ -51,8 +51,8 @@ Fighting!&nbsp;&#10024;
 </p>
 <br/><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjnssss)](https://github.com/jmjnssss/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmjnssss)](https://github.com/jmjnssss/github-readme-stats)
 
 <br/><br/>
 
