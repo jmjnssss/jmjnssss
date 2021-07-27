@@ -9,7 +9,7 @@
 Hello, I'm a growing developer.&#10024;  
 </p>
 <br/>
-
+-------------------------
 <h3 align="center">
 &#127873; Technology Stack &#127873; 
 </h3>
