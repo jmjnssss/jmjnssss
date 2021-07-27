@@ -6,7 +6,8 @@
 &#127881;&nbsp; Hi there &#127881;
 </h3>
 <p align="center">
-Hello, I'm a growing developer.&#10024;  
+안녕하세요. 개발자 꿈나무입니다!<br/>
+화이팅화이팅 &nbsp;&#10024;  
 </p>
 <br/>
 
