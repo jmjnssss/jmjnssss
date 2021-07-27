@@ -57,9 +57,9 @@ Fighting!&nbsp;&#10024;
  
 </p>
 <br/><br/><br/><br/>
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjnssss&layout=compact)](https://github.com/jmjnssss)
-
+-->
 <br/><br/>
 
 
