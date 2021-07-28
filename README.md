@@ -15,7 +15,7 @@
 
 <p>
 Hi, I'm a growing developer. &#128570;<br/>
-Fighting!&nbsp;&#10024;  
+Fighting! Fighting!&nbsp;&#10024;  
 </p>
 <br/>
 
